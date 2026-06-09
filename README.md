@@ -1,6 +1,6 @@
-# Jotapé Marketing
+# JotaPE Marketing
 
-Site institucional (landing page) da Jotapé Marketing.
+Site institucional (landing page) da JotaPE Marketing.
 
 ## Como funciona
 
